@@ -444,5 +444,13 @@ form {
         margin-left: auto;
     }
 }
-.btn {
+
+.swiper{
+    max-width: 800px;
+}
+.btns2{
+    margin-top: 20px;
+    img{
+        position: static;
+    }
 }
